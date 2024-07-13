@@ -15,11 +15,8 @@ http://www.cready.az/en/
 - [Zeynal Zeynalov](https://www.linkedin.com/in/zeynal/) - Co-Founder and Senior Software Engineer
 - [Shahin Ibrahimli](https://www.linkedin.com/in/sahin-ibrahimli/) - Software Engineer
 
-**Achievements:**
-
-- 2026: BBVA Open Talent 2016 - [FinTech startup competition finalist](https://www.bbva.com/en/bbva-open-talent-2016-musonis-microfinance-solution-earns-special-financial-inclusion-award/)
-
-**Events:**
+**Events/Achievements:**
 
 - 2014: BakuTel - [Cready startup team attended the BakuTel telecommunications exhibition](https://infocity.tech/2014/12/bakutel-2014-d%C9%99-istirak-ed%C9%99n-az%C9%99rbaycan-startaplari/)
-- 2015: Seedstars Baku - Cready has been selected as one of the best seed-stage startups in the Azerbaijan and invited to pitch at Seedstars Baku
+- 2015: Seedstars Baku - [Cready has been selected as one of the best seed-stage startups in the Azerbaijan](https://report.az/ikt/bakida-azerbaycanli-startapcilar-arasinda-seedstars-world-musabiqesinin-yerli-secimi-kecirilecek/)
+- 2016: BBVA Open Talent - [FinTech startup competition finalist](https://www.bbva.com/en/bbva-open-talent-2016-musonis-microfinance-solution-earns-special-financial-inclusion-award/)
