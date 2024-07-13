@@ -19,4 +19,4 @@ http://www.cready.az/en/
 
 **Achievements:**
 
-- We are BBVA Open Talent 2016 - Fintech startup competition finalist! - http://www.centrodeinnovacionbbva.com/en/opentalent/finalists
+- 2026: BBVA Open Talent 2016 - FinTech startup competition finalist! - http://www.centrodeinnovacionbbva.com/en/opentalent/finalists
