@@ -19,6 +19,6 @@ http://www.cready.az/en/
 
 - 2026: BBVA Open Talent 2016 - [FinTech startup competition finalist](https://www.bbva.com/en/bbva-open-talent-2016-musonis-microfinance-solution-earns-special-financial-inclusion-award/)
 
-**Events**
+**Events:**
 
 - 2014: BakuTel - [Cready startup team attended the BakuTel telecommunications exhibition](https://infocity.tech/2014/12/bakutel-2014-d%C9%99-istirak-ed%C9%99n-az%C9%99rbaycan-startaplari/)
