@@ -1,6 +1,6 @@
 # CREADY startup
 
-**About the Project:**
+**About the project:**
 
 The Loan Servicing Platform is designed for the loan approval processes of banks, retail stores, and leasing companies that offer cash or non-cash loans. This BPM solution automates the loan approval processes for these institutions, providing customer risk analyses using a sophisticated risk scoring model.
 
