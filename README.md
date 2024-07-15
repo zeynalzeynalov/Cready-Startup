@@ -8,7 +8,7 @@ The system enhances process duration and quality with its checklists and auto-re
 
 The project covers designing and implementing the entire database and developing a web-based application. Both the back-end and front-end development were done using the ASP.Net framework (C#) and MS SQL Server. The MVP was launched after approximately one year of development.
 
-http://www.cready.az/en/
+[www.cready.az/en](https://web.archive.org/web/20170506074107/http://cready.az/)
 
 **Team:**
 
