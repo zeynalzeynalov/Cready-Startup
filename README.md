@@ -6,7 +6,7 @@ The Loan Servicing solution is designed for the loan approval processes of banks
 
 The solution enhances process duration and quality with its checklists and auto-reject rules, leading to increased customer satisfaction. It detects blacklisted and risky loan customers, provides detailed information about customers with its loan history module, and allows for the attachment of customer documents and comments, preventing time and money loss for the company.
 
-The project covers designing and implementing the entire database and developing a web-based application. Both the back-end and front-end development were done using the ASP.Net framework (C#) and MS SQL Server. The MVP was launched after approximately one year of development.
+The project covers designing and implementing the entire database and developing a web-based application. Both the back-end and front-end development were done using the ASP.NET framework (C#) and MS SQL Server. The MVP was launched after approximately one year of development.
 
 [www.cready.az/en](https://web.archive.org/web/20170506074107/http://cready.az/)
 
