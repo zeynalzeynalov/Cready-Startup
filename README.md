@@ -13,7 +13,7 @@ The project covers designing and implementing the entire database and developing
 **Team:**
 
 - [Zeynal Zeynalov](https://www.linkedin.com/in/zeynal/) - Co-Founder and Senior Software Engineer
-- [Shahin Ibrahimli](https://www.linkedin.com/in/sahin-ibrahimli/) - Software Engineer
+- [Shahin Ibrahimli](https://www.linkedin.com/in/sahin-ibrahimli/) - Senior Software Engineer
 
 **Events / achievements:**
 
